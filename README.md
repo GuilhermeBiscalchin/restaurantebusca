@@ -1,3 +1,16 @@
+------- BUSCA RESTAURANTES PRÓXIMOS -----
+
+✨ Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+React JavaScript e para o CSS - Styled Componenteds
+
+Utilização do banco de dados da API do Google Maps.
+
+💻 Projeto é um buscador de restaurantes atráves da api do google-mapas.
+
+🚀 Como executar Clone o repositório Instale as dependências com yarn Inicie o servidor com yarn dev Agora você pode acessar localhost:3000 do seu navegador.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
